@@ -1,0 +1,8 @@
+ipywidgets
+jupyterlab
+matplotlib
+numpy
+scikit-learn
+soundfile
+torch  # GPUを使う場合は手動で入れる
+tqdm
