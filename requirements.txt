@@ -2,6 +2,7 @@ ipywidgets
 jupyterlab
 matplotlib
 numpy
+pyannote.audio
 scikit-learn
 soundfile
 torch  # GPUを使う場合は手動で入れる
